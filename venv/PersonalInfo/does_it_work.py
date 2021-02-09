@@ -11,6 +11,7 @@ for key,value in my_stocks.items():
      print(key,value)
 #list of price info every 5m for a span='week'
 list_prices = robin_stocks.stocks.get_stock_historicals('LABP',interval='5minute')
+robin_stocks.stocks.get_latest_price('')
 #setup for dictionary of change
 change_dict = {}
 counter = 0
