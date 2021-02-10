@@ -30,27 +30,25 @@ async def on_message(message):
     if message.content.startswith('$hello'):
         await message.channel.send('Hello!')
 
-    if message.content.startswith('$hist'):
+    elif message.content.startswith('$hist'):
         split = message.content.split()
-
-        #for piece in split:
-            #await message.channel.send(f"{piece}")
         if not split[3]:
             split[3] = 'week'
         list_prices = robin_stocks.stocks.get_stock_historicals(split[1], interval=split[2], span=split[3])
         for price in list_prices:
             await message.channel.send(f"{price}")
-    if message.content.startswith('$check'):
+
+    elif message.content.startswith('$check'):
         split = message.content.split()
         this_price = robin_stocks.stocks.get_latest_price(f'{split[1]}')
         await message.channel.send(f'{this_price}')
 
-    if message.content.startswith('$check-details'):
+    elif message.content.startswith('$check-details'):
         split = message.content.split()
         this_price = robin_stocks.stocks.get_latest_price(f'{split[1]}')
         await message.channel.send(f'{split[1]} {this_price[0]}')
 
-    if message.content.startswith('$headline'):
+    elif message.content.startswith('$headline'):
         split = message.content.split()
         if len(split) > 1:
             news = robin_stocks.stocks.get_news(split[1])
@@ -61,7 +59,7 @@ async def on_message(message):
         else:
             await message.channel.send(f"Please include a ticker symbol to be searched")
 
-    if message.content.startswith('$help'):
+    elif message.content.startswith('$help'):
         split = message.content.split()
         print(split)
         if len(split) != 1:
