@@ -18,6 +18,7 @@ counter = 0
 for price in list_prices:
     counter += 1
     print(counter, price['open_price'], price['close_price'])
+    print(price)
     change_dict.update({counter: (float(price['open_price']) - float(price['close_price'])) / float(price['open_price'])})
 #rate of change per hour of LABP in a dictionary
 print(change_dict)

@@ -1,35 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76f2c9bd-917b-4855-99b0-e87b60f71860" name="Default Changelist" comment="added example uses of the api">
-      <change afterPath="$PROJECT_DIR$/venv/botmain.py" afterDir="false" />
+    <list default="true" id="76f2c9bd-917b-4855-99b0-e87b60f71860" name="Default Changelist" comment="added discord bot">
+      <change afterPath="$PROJECT_DIR$/venv/MinMaxLineFit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/charsetgroupprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/charsetgroupprober.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/cli/chardetect.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/cli/chardetect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langbulgarianmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langbulgarianmodel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langgreekmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langgreekmodel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langhebrewmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langhebrewmodel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langhungarianmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langhungarianmodel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langrussianmodel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langthaimodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langthaimodel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langturkishmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langturkishmodel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/metadata/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/metadata/languages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/sbcharsetprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/sbcharsetprober.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/sbcsgroupprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/sbcsgroupprober.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/universaldetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/universaldetector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/PersonalInfo/DefaultPersonalInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/PersonalInfo/DefaultPersonalInfo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/PersonalInfo/does_it_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/PersonalInfo/does_it_work.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/botmain.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/botmain.py" afterDir="false" />
     </list>
     <list id="cf2f4f45-8a92-4cbe-a274-5fd5e792d292" name=".gitignore" comment="">
       <change beforePath="$PROJECT_DIR$/venv/PersonalInfo/MyInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/PersonalInfo/MyInfo.py" afterDir="false" />
@@ -67,6 +44,27 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.botmain">
+    <configuration name="MinMaxLineFit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="piggybanker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/MinMaxLineFit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="botmain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="piggybanker" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,10 +154,12 @@
       <item itemvalue="Python.does_it_work" />
       <item itemvalue="Python.does_it_work (1)" />
       <item itemvalue="Python.botmain" />
+      <item itemvalue="Python.MinMaxLineFit" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.botmain" />
+        <item itemvalue="Python.MinMaxLineFit" />
         <item itemvalue="Python.does_it_work (1)" />
         <item itemvalue="Python.does_it_work" />
         <item itemvalue="Python.login_test" />
@@ -192,13 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612827996025</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added discord bot">
+      <created>1612836384634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612836384634</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="added example uses of the api" />
-    <option name="LAST_COMMIT_MESSAGE" value="added example uses of the api" />
+    <MESSAGE value="added discord bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="added discord bot" />
   </component>
   <component name="WindowStateProjectService">
     <state x="565" y="227" key="#Notifications" timestamp="1612822868048">
@@ -217,22 +225,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="128" y="55" key="DiffContextDialog/0.0.1360.728@0.0.1360.728" timestamp="1612823165115" />
-    <state width="1339" height="164" key="GridCell.Tab.0.bottom" timestamp="1612836188563">
+    <state width="1339" height="164" key="GridCell.Tab.0.bottom" timestamp="1612917553545">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="164" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1612836188563" />
-    <state width="1339" height="164" key="GridCell.Tab.0.center" timestamp="1612836188563">
+    <state width="1339" height="164" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1612917553545" />
+    <state width="1339" height="164" key="GridCell.Tab.0.center" timestamp="1612917553545">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="164" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1612836188563" />
-    <state width="1339" height="164" key="GridCell.Tab.0.left" timestamp="1612836188563">
+    <state width="1339" height="164" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1612917553545" />
+    <state width="1339" height="164" key="GridCell.Tab.0.left" timestamp="1612917553545">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="164" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1612836188563" />
-    <state width="1339" height="164" key="GridCell.Tab.0.right" timestamp="1612836188563">
+    <state width="1339" height="164" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1612917553545" />
+    <state width="1339" height="164" key="GridCell.Tab.0.right" timestamp="1612917553545">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="164" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1612836188563" />
+    <state width="1339" height="164" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1612917553545" />
     <state width="1339" height="223" key="GridCell.Tab.1.bottom" timestamp="1612823074765">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -253,10 +261,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="233" key="VCS.EditChangelistDialog/0.0.1360.728@0.0.1360.728" timestamp="1612827971211" />
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1612828003093">
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1612836401358">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1612828003093" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1612836401358" />
     <state x="346" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612820403199">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -265,5 +273,9 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="244" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1360.728@0.0.1360.728" timestamp="1612821054178" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1612901539026">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1612901539026" />
   </component>
 </project>
