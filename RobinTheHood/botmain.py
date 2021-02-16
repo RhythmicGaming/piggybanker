@@ -51,7 +51,7 @@ async def on_message(message):
             return
         else:
             this_price = robin_stocks.stocks.get_latest_price(f'{split[1]}')
-            await message.channel.send(f'{this_price}')
+            await message.channel.send(f'${this_price[0]}')
 
     elif message.content.startswith('$check-details'):
         split = message.content.split()
